@@ -1,4 +1,4 @@
-# Form Pencarian
+# Form Live Search
 
 - PHP Dasar
 - PHP Native
@@ -9,4 +9,4 @@ Silakan jadikan referensi, pelajari logikanya untuk menjamin keamanan website ki
 
 # Fitur :
 
-- Pencarian
+- Live Search
